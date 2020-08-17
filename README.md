@@ -25,4 +25,4 @@ to install:
 ![Alt text](EFI.png?raw=true "Screenshot")
 5. delete the content of the efi folder and paste my folder inside
 ![Alt text](EFI_delete.png?raw=true "Screenshot")
-6. ur done :)
+6. reboot and ur done :)
