@@ -22,7 +22,7 @@ to install:
 2. paste sudo mkdir /Volumes/EFI into terminal
 3. paste sudo mount -t msdos /dev/disk0s1 /Volumes/efi into terminal
 4. open efi partition in finder
-![Alt text](EFI.png?raw=true "Screenshot")
+![Alt text](pics/EFI.png?raw=true "Screenshot")
 5. delete the content of the efi folder and paste my folder inside
-![Alt text](EFI_delete.png?raw=true "Screenshot")
+![Alt text](pics/EFI_delete.png?raw=true "Screenshot")
 6. reboot and ur done :)
