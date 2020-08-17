@@ -3,18 +3,18 @@ EFI folder for thinkpad t440s with clover bootloader
 
 for hackintoshing a thinkpad t440s with osx mojave.
 whats working:
-graphic drivers
-audio drivers
-ethernet
-usb
-touchpad + gestures
-keyboard shortcuts (for changing brightness & volume)
-battery management
-pretty much everything
+1. graphic drivers
+2. audio drivers
+3. ethernet
+4. usb
+5. touchpad + gestures
+6. keyboard shortcuts (for changing brightness & volume)
+7. battery management
+8. pretty much everything
 
 what doesn't work:
-wifi & bluetooth (intel wifi is not supported, fixed it with a wifi dongle)
-camera (havent found a kext to get the camera working)
+1. wifi & bluetooth (intel wifi is not supported, fixed it with a wifi dongle)
+2. camera (havent found a kext to get the camera working)
 
 to install:
 
