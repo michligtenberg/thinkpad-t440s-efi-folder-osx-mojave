@@ -1,7 +1,7 @@
 # thinkpad-t440s-efi-folder-osx-mojave
 EFI folder for thinkpad t440s with clover bootloader
 
-for hackintoshng a thinkpad t440s with osx mojave.
+for hackintoshing a thinkpad t440s with osx mojave.
 whats working:
 graphic drivers
 audio drivers
