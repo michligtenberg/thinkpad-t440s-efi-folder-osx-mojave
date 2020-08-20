@@ -10,7 +10,8 @@ whats working:
 5. touchpad + gestures
 6. keyboard shortcuts (for changing brightness & volume)
 7. battery management
-8. pretty much everything
+8. vga (suprisingly enough)
+9. pretty much everything
 
 what doesn't work:
 1. wifi & bluetooth (intel wifi is not supported, fixed it with a wifi dongle)
